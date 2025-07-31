@@ -1,0 +1,126 @@
+28.06.2020 11:13:38 :: Function ProNameComp Started.
+28.06.2020 11:13:40 :: Occurance of 'PRO' found at : 25. Needs further verification.
+28.06.2020 11:13:40 :: Occurance of 'PRO' found at : 25 is NOT single word. Check for 'processor'.
+28.06.2020 11:13:40 :: Occurance of 'PRO' found at : 25 is part of PROCESSOR.Discard and check in remaining string.
+28.06.2020 11:13:40 :: Updated processor name : AMD Ryzen 5 5600 6-Core                
+28.06.2020 11:13:40 :: Occurance of 'PRO' NOT found.Proceed with installation.
+28.06.2020 11:13:40 :: Installation can CONTINUE. Processor : AMD Ryzen 5 5600 6-Core                 Manufacturer : Micro-Star International Co., Ltd
+28.06.2020 11:13:40 :: Hence disallow installation of AMDDynamicLocalModeService.
+28.06.2020 11:13:40 :: Function ProNameComp Ended.
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - Querying
+28.06.2020 11:13:42 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+28.06.2020 11:13:43 :: Function TaskSchdlr - Updated AMDAutoUpdate
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:43 :: Function TaskSchdlrEdit - Querying
+28.06.2020 11:13:49 :: Function ReadRegistryKey started.
+28.06.2020 11:13:49 :: Function ReadRegistryKey KeyValue is  NOEXECUTE=OPTIN
+28.06.2020 11:13:49 :: Function ReadRegistryKey Ended.
+28.06.2020 11:13:49 :: NUMPROC value from reg read  :  NOEXECUTE=OPTIN
+28.06.2020 11:13:49 :: RunBcdedit : LCM is read to be in OFF state.Directly install the update.
+28.06.2020 11:13:55 :: PiR_Install value updated : 256
+28.06.2020 11:13:55 :: SR_Install value updated : 256
+28.06.2020 11:13:55 :: Setup.exe - 5.12 cached as platform is not PCO or PiR.But Mattisse
+28.06.2020 11:13:55 :: QML Source: C:\AMD\RyzenMasterExtract\MSIFiles\Qt_Dependancies\..\Qt_Dependancies\Setup.exe
+28.06.2020 11:13:55 :: Destination: C:\Program Files\AMD\RyzenMaster\bin\
+28.06.2020 11:13:55 :: Function Delete_QTExtraction. Remove RyzenMasterExtract folder completed.
+16.05.2022 22:50:51 :: Function ProNameComp Started.
+16.05.2022 22:50:52 :: Occurance of 'PRO' found at : 25. Needs further verification.
+16.05.2022 22:50:52 :: Occurance of 'PRO' found at : 25 is NOT single word. Check for 'processor'.
+16.05.2022 22:50:52 :: Occurance of 'PRO' found at : 25 is part of PROCESSOR.Discard and check in remaining string.
+16.05.2022 22:50:52 :: Updated processor name : AMD Ryzen 5 5600 6-Core                
+16.05.2022 22:50:52 :: Occurance of 'PRO' NOT found.Proceed with installation.
+16.05.2022 22:50:52 :: Installation can CONTINUE. Processor : AMD Ryzen 5 5600 6-Core                 Manufacturer : Micro-Star International Co., Ltd
+16.05.2022 22:50:52 :: Hence disallow installation of AMDDynamicLocalModeService.
+16.05.2022 22:50:52 :: Function ProNameComp Ended.
+16.05.2022 22:50:52 :: Function ReadRegistryKey started.
+16.05.2022 22:50:52 :: Function ReadRegistryKey KeyValue is 
+16.05.2022 22:50:52 :: Function ReadRegistryKey Ended.
+16.05.2022 22:50:52 :: Athena_RegRead_Up : AthenaRegistry value of previous installation from reg read  : 
+16.05.2022 22:50:52 :: Athena_RegRead_Up : RM athena status value of previous installation from reg read  : 
+16.05.2022 22:50:52 :: Athena_RegRead_Up : NOT setting INSTALL_ATHENA_SIL value.Setting CHECKREGION to deploy athena based on regional preferences.
+16.05.2022 22:50:54 :: Remove_AMDDynamicSvc : InstallDirectory : C:\Program Files\AMD\AMDDynamicLocalModeService\
+16.05.2022 22:50:54 :: Remove_AMDDynamicSvc : AMDDynamicLocalModeService.exe not found in install path.
+16.05.2022 22:51:04 :: The state of AUEPLauncher service is : 
+16.05.2022 22:51:04 :: The state of AUEPLauncher service is not started.hence no action taken.
+16.05.2022 22:51:05 :: Function RemovePrevConf - Installed version : 2.2.0.1543. Deleting only settings file as installed version is 1.1
+16.05.2022 22:51:05 :: Function RemovePrevConf -Deleted settings.json
+16.05.2022 22:51:05 :: Function TaskSchdlr - Duration of existing  AMDAutoUpdate task is : 15
+16.05.2022 22:51:05 :: Function TaskSchdlr - Deleting AMDAutoUpdate since it is present
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - Querying
+16.05.2022 22:51:05 :: Function TaskSchdlr - TASK NOT FOUND : CREATIN
+16.05.2022 22:51:05 :: Function RemoveAMDRMService Started.
+16.05.2022 22:51:05 :: Function RemoveAMDRMService Started;;;1
+16.05.2022 22:51:05 :: PiR_Install value updated : 256
+16.05.2022 22:51:05 :: SR_Install value updated : 256
+16.05.2022 22:51:05 :: UI install path as per environment variable in  is : C:\Program Files\AMD\RyzenMaster\
+16.05.2022 22:51:05 :: Function ReadRegistryKey started.
+16.05.2022 22:51:05 :: Function ReadRegistryKey KeyValue is 
+16.05.2022 22:51:05 :: Function ReadRegistryKey Ended.
+16.05.2022 22:51:05 :: Path from which service runs as per registry : 
+16.05.2022 22:51:05 :: Not uninstalling driver service as it does not belong to current installer being removed.
+16.05.2022 22:51:05 :: Function RemoveAMDRMService. Remove bin files started.
+16.05.2022 22:51:05 ::  Remove bin files started.C:\Program Files\AMD\RyzenMaster\bin
+16.05.2022 22:51:06 :: Remove bin files started. Folders gone.
+16.05.2022 22:51:06 :: Function RemoveAMDRMService. Remove logs files started.
+16.05.2022 22:51:06 :: Remove logs files started.C:\Program Files\AMD\RyzenMaster\logs
+16.05.2022 22:51:06 :: Remove logs files started. Folders gone.
+16.05.2022 22:51:06 :: Function RemoveAMDRMService. DefaultImages folder not present at : C:\Program Files\AMD\RyzenMaster\
+16.05.2022 22:51:06 :: Function RemoveAMDRMService. DefaultImages folder not present at : C:\Program Files\AMD\RyzenMaster\
+16.05.2022 22:51:06 :: Function RemoveAMDRMService. Minor Upgrade property is : 1
+16.05.2022 22:51:06 :: Uninstalling driver service as it is minor upgrade.
+16.05.2022 22:51:06 :: Function ExecuteFiles strBatchFilePath "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -u
+16.05.2022 22:51:06 :: Function ExecuteFiles errReturn 0 for file "C:\Program Files\AMD\RyzenMaster\DriverUtility.bat" -u.
+16.05.2022 22:51:06 :: Not removing extraction folder as it is not uninstall sequence
+16.05.2022 22:51:06 :: Function RemoveAMDRMService Ended.
+16.05.2022 22:51:06 :: ChkServiceReboot : The state of AMDRM service - AMDRyzenMasterDriverV19 - is : 
+16.05.2022 22:51:10 :: Function ReadRegistryKey started.
+16.05.2022 22:51:10 :: Function ReadRegistryKey KeyValue is  NOEXECUTE=OPTIN  NOVGA
+16.05.2022 22:51:10 :: Function ReadRegistryKey Ended.
+16.05.2022 22:51:10 :: NUMPROC value from reg read  :  NOEXECUTE=OPTIN  NOVGA
+16.05.2022 22:51:10 :: RunBcdedit : LCM is read to be in OFF state.Directly install the update.
+16.05.2022 22:51:11 :: PiR_Install value updated : 256
+16.05.2022 22:51:11 :: SR_Install value updated : 256
+16.05.2022 22:51:11 :: Setup.exe - 5.12 cached as platform is not PCO or PiR.But Mattisse
+16.05.2022 22:51:11 :: QML Source: C:\AMD\RyzenMasterExtract\MSIFiles\Qt_Dependancies\..\Qt_Dependancies\Setup.exe
+16.05.2022 22:51:11 :: Destination: C:\Program Files\AMD\RyzenMaster\bin\
+16.05.2022 22:51:11 :: Function Delete_QTExtraction. Remove RyzenMasterExtract folder completed.
+09.12.2023 11:51:20 :: Occurance of 'PRO' found at : 26. Needs further verification.
+09.12.2023 11:51:20 :: Occurance of 'PRO' found at : 26 is NOT single word. Check for 'processor'.
+09.12.2023 11:51:20 :: Occurance of 'PRO' found at : 26 is part of PROCESSOR.Discard and check in remaining string.
+09.12.2023 11:51:20 :: Updated processor name : AMD Ryzen 5 5600X 6-Core               
+09.12.2023 11:51:20 :: Occurance of 'PRO' NOT found.Proceed with installation.
+09.12.2023 11:51:20 :: Installation can CONTINUE. Processor : AMD Ryzen 5 5600X 6-Core                Manufacturer : Micro-Star International Co., Ltd
